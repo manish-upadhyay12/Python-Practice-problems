@@ -1,0 +1,10 @@
+"""  1. set is unique , means only unique value store in set 
+
+  2. set allow only immutable data and hashable data type(int,float,str,)
+
+  3. lis is mutable so we set never allow  to store list  because we can change
+       data of list 
+       
+4.   All set element has his own hash value, has value decide element is unique ,double ,list 
+     if  i have set and data is duplicate , when we print set (print(set)) data become unique 
+     """
